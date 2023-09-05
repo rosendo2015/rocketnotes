@@ -85,7 +85,8 @@ export function New() {
             onChange={(e) => {
               setDescription(e.target.value)
             }}
-          />
+          ></Textarea>
+
           <Section title='Minnas notas'>
             {links.map((link, index) => (
               <NoteItem

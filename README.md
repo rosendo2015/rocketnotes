@@ -8,8 +8,8 @@
 
 ## :dart:  Desafio
 
-Projeto Rocketnotes, consiste em construir um app de anotações sobre assuntos  importantes, grardando links e criando tags que viram filtros para selecionar as notas por tags.
-Consumindo uma api com nodejs
+Projeto Rocketnotes, consiste em construir um app de anotações sobre assuntos  importantes, guardando links e criando tags que viram filtros para selecionar as notas por tags.
+Consumindo uma api com nodejs para persistir as informações no banco de dados
 
 ## :nut_and_bolt: Tech
 * NODE
@@ -23,6 +23,7 @@ Consumindo uma api com nodejs
 * knex
 * construimos uma API
 * REACT
+* React hooks (Use States e Use Effects)
 * ESLint e Prettier
 * VITE
 * STYLED-COMPONENTS
